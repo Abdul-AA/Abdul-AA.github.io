@@ -4,7 +4,7 @@
 
 ## Exploratory Data Analysis
 
-[Exploratory Data Analysis: Comcast Telecom Consumer Complaints](https://github.com/Abdul-AA/abdul-aa.github.io/Notebooks/Comcast Assessment Project.html)
+[Exploratory Data Analysis: Comcast Telecom Consumer Complaints](https://github.com/Abdul-AA/abdul-aa.github.io/blob/dbf12fe617eeead33e865e4ac41566b1c31a965e/Notebooks/Comcast%20Assessment%20Project.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
