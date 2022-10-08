@@ -6,7 +6,7 @@
 
 ### Exploratory Data Analysis: Comcast Telecom Consumer Complaints
 
-I analyzed public data on consumer complaints filed against Comcast, an American global telecommunication company with a poor customer service in order to identify what exactly is wrong with Comcast's customer service and how the firm can improve.
+I analyzed public data on consumer complaints filed, from April to June 2016, against Comcast, an American global telecommunication conglomerate in order to identify what exactly is wrong with Comcast's customer service and how the firm can improve.
 
 [View on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/9cd9c6860e4b2202a8bc339aeec28b68e197f0c3/Notebooks/Comcast%20Assessment%20Project.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
