@@ -1,10 +1,10 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+## Exploratory Data Analysis
 
-[Project 1 Title](/sample_page)
+[Exploratory Data Analysis: Comcast Telecom Consumer Complaints](https://github.com/Abdul-AA/abdul-aa.github.io/Notebooks/Comcast Assessment Project.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
