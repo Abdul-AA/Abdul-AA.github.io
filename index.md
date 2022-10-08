@@ -9,7 +9,7 @@
 I analyzed public data on consumer complaints filed, from April to June 2016, against Comcast, an American global telecommunication conglomerate, to identify what exactly was wrong with Comcast's customer service and how the firm could have improved.
 
 [View on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/9cd9c6860e4b2202a8bc339aeec28b68e197f0c3/Notebooks/Comcast%20Assessment%20Project.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cell.png.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
