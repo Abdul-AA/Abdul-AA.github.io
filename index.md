@@ -15,7 +15,7 @@ I analyzed public data on consumer complaints filed, from April to June 2016, ag
 
 ---
 
-## Comparative Study of Countries for an Insurance Company
+## Comparative Study of Countries
 I created a dashboard on Tableau for an insurance company that is expanding and looking to situate new branches in various parts of the world. In the dashboard, I compared multiple metrics such as income, life insurance share, market share, penetration, the ratio of reinsurance accepted, and retention ratio of countries of varying income levels using the sample insurance dataset and world development indicators dataset. I performed the following steps in creating the dashboard:
 -	I created a geographic map showing the countries the insurance firm was considering and indicated each country's income level. 
 -	I included an income group filter in the dashboard to select countries based on their income level.
