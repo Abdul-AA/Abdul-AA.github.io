@@ -2,13 +2,15 @@
 
 ---
 
-## Exploratory Data Analysis
-
-### Exploratory Data Analysis: Comcast Telecom Consumer Complaints
+## Exploratory Data Analysis: Comcast Telecom Consumer Complaints
 
 I analyzed public data on consumer complaints filed, from April to June 2016, against Comcast, an American global telecommunication conglomerate, to identify what exactly was wrong with Comcast's customer service and how the firm could have improved.
 
-[View on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/9cd9c6860e4b2202a8bc339aeec28b68e197f0c3/Notebooks/Comcast%20Assessment%20Project.ipynb)
+### Skills and Tools Used
+- Exploration data analysis
+- Python (Pandas and Numpy)
+
+[View on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/6dcc32f4d5137484da909d38799db1ea6b2bf49a/Notebooks/Comcast%20Data%20Analysis.ipynb)
 <img src="images/cell.png.jpg"/>
 
 ---
@@ -34,6 +36,3 @@ I analyzed public data on consumer complaints filed, from April to June 2016, ag
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
