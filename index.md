@@ -21,23 +21,9 @@ I analyzed public data on consumer complaints filed, from April to June 2016, ag
 - Data Visualization
 - Tableau
 [View Dashboard](https://public.tableau.com/views/ComparativeStudyofCountries_16641355016940/ComparativeStudyofCountries?:language=en-US&:display_count=n&:origin=viz_share_link))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Comparative Study of Countries.png"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
