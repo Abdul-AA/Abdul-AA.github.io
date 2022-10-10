@@ -20,6 +20,7 @@ I analyzed public data on consumer complaints filed, from April to June 2016, ag
 ### Skills and Tools Used
 - Data Visualization
 - Tableau
+
 [View Dashboard](https://public.tableau.com/views/ComparativeStudyofCountries_16641355016940/ComparativeStudyofCountries?:language=en-US&:display_count=n&:origin=viz_share_link))
 <img src="images/Comparative Study of Countries.png"/>
 
