@@ -14,7 +14,13 @@ I analyzed public data on consumer complaints filed, from April to June 2016, ag
 <img src="images/cell.png.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+
+## Comparative Study of Countries for an Insurance Company
+
+### Skills and Tools Used
+- Data Visualization
+- Tableau
+[View Dashboard](https://public.tableau.com/views/ComparativeStudyofCountries_16641355016940/ComparativeStudyofCountries?:language=en-US&:display_count=n&:origin=viz_share_link))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
