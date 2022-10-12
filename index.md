@@ -1,10 +1,10 @@
-# Portfolio
+# Abdul's Portfolio
 
 ---
 
 ## Exploratory Data Analysis: Comcast Telecom Consumer Complaints
 
-Comcast is the largest American global telecommunication conglomerate. In October 2016, they received a fine of $2.3 million from the Federal Communications Commissions (FCC) after customers filed more than 2000 complaints within the prior 3 months. The fine was purportedly the largest civil penalty imposed on a cable operator. The FCC claimed they fined Comcast for wrongfully charging customers, but Comcast refuted this claim. The company's database serves as a repository of public customer complaints filed against Comcast. I will analyze the relevant data to pin down Comcast's customer service flaws, how the organization could improve, and if they received a significant number of billing- related complaints.
+Comcast is the largest American global telecommunication conglomerate. In October 2016, they received a fine of $2.3 million from the Federal Communications Commissions (FCC) after customers filed more than 2000 complaints between April, 2016 and June, 2016. The fine was purportedly the largest civil penalty imposed on a cable operator. The FCC claimed they fined Comcast for wrongfully charging customers, but Comcast refuted this claim. The company's database serves as a repository of public customer complaints filed against Comcast. I will analyze the relevant data to pin down Comcast's customer service flaws, how the organization could improve, and if they received a significant number of billing- related complaints.
 
 ### Skills and Tools Used
 - Exploratory data analysis
