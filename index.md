@@ -4,7 +4,7 @@
 
 ## Exploratory Data Analysis: Comcast Telecom Consumer Complaints
 
-I analyzed public data on consumer complaints filed, from April to June 2016, against Comcast, an American global telecommunication conglomerate, to identify what exactly was wrong with Comcast's customer service and how the firm could have improved.
+Comcast is the largest American global telecommunication conglomerate. In October 2016, they received a fine of $2.3 million from the Federal Communications Commissions (FCC) after customers filed more than 2000 complaints within the prior 3 months. The fine was purportedly the largest civil penalty imposed on a cable operator. The FCC claimed they fined Comcast for wrongfully charging customers, but Comcast refuted this claim. The company's database serves as a repository of public customer complaints filed against Comcast. I will analyze the relevant data to pin down Comcast's customer service flaws, how the organization could improve, and if they received a significant number of billing- related complaints.
 
 ### Skills and Tools Used
 - Exploratory data analysis
@@ -14,6 +14,7 @@ I analyzed public data on consumer complaints filed, from April to June 2016, ag
 <img src="images/cell.png.jpg"/>
 
 ---
+
 
 ## Comparative Study of Countries
 I created a dashboard on Tableau for an insurance company that is expanding and looking to situate new branches in various parts of the world. In the dashboard, I compared multiple metrics such as income, life insurance share, market share, penetration, the ratio of reinsurance accepted, and retention ratio of countries of varying income levels using the sample insurance dataset and world development indicators dataset. I performed the following steps in creating the dashboard:
