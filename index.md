@@ -10,7 +10,7 @@ Comcast is the largest American global telecommunication conglomerate. In Octobe
 - Exploratory data analysis
 - Python (Pandas and Numpy)
 
-[View on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/6dcc32f4d5137484da909d38799db1ea6b2bf49a/Notebooks/Comcast%20Data%20Analysis.ipynb)
+[View on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/d96fe4bf3c0018f5de1c6d70e7690eb2dd4a3e74/Notebooks/Comcast%20Data%20Analysis.ipynb)
 <img src="images/cell.png.jpg"/>
 
 ---
