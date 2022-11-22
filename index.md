@@ -2,7 +2,7 @@
 
 ---
 
-## Diabetes Classifier
+# Diabetes Classifier
 
 Diabetes mellitus is a disease that affects how the body regulates and uses glucose. It is characterized by abnormally high levels of glucose in the blood. A hormone known as insulin regulates glucose levels in the blood. It is produced by the islet cells in the pancreas—an impairment in the body's ability to make or respond to insulin results in diabetes. Diabetes is classified into type 1 diabetes and type 2 diabetes. The former occurs when the pancreas produces insufficient insulin, while the latter occurs when cells do not respond to insulin. In this project, I aim to build a model that can accurately predict whether an individual has diabetes. Using machine learning to diagnose diabetes will make the diagnostic process more efficient, which will, in turn, make treatment easier and perhaps more effective.  So I built and compare several models that can accurately predict whether an individual has diabetes. The chosen classification algorithms include KNN, decision Tree, and different Naive Baiyes algorithms.
 
@@ -16,7 +16,7 @@ Diabetes mellitus is a disease that affects how the body regulates and uses gluc
 
 ---
 
-## Data Analysis: Comcast Telecom Consumer Complaints
+# Data Analysis: Comcast Telecom Consumer Complaints
 
 Comcast is the largest American global telecommunication conglomerate. In October 2016, they received a fine of $2.3 million from the Federal Communications Commissions (FCC) after customers filed more than 2000 complaints between April, 2016 and June, 2016. The fine was purportedly the largest civil penalty imposed on a cable operator. The FCC claimed they fined Comcast for wrongfully charging customers, but Comcast refuted this claim. The company's database serves as a repository of public customer complaints filed against Comcast. I will analyze the relevant data to pin down Comcast's customer service flaws, how the organization could improve, and if they received a significant number of billing- related complaints.
 
@@ -30,7 +30,7 @@ Comcast is the largest American global telecommunication conglomerate. In Octobe
 ---
 
 
-## Comparative Study of Countries
+# Comparative Study of Countries
 I created a dashboard on Tableau for an insurance company that is expanding and looking to situate new branches in various parts of the world. In the dashboard, I compared multiple metrics such as income, life insurance share, market share, penetration, the ratio of reinsurance accepted, and retention ratio of countries of varying income levels using the sample insurance dataset and world development indicators dataset. I performed the following steps in creating the dashboard:
 -	I created a geographic map showing the countries the insurance firm was considering and indicated each country's income level. 
 -	I included an income group filter in the dashboard to select countries based on their income level.
