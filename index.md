@@ -11,7 +11,7 @@ Diabetes mellitus is a disease that affects how the body regulates and uses gluc
 - Supervised learning
 - Python (Pandas, NumPy, ScikitLearn, seaborn, and Matplotlib)
 
-[View on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/e0a9468ab53445e5926012f76abcf79d2b03208c/Notebooks/Comcast%20Data%20Analysis.ipynb)
+[View on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/6a94f80e7246b2a83f86022594e97b8218a0a296/Notebooks/diabetes.ipynb)
 <img src="images/cell.png.jpg"/>
 
 ---
