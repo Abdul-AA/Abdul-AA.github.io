@@ -1,10 +1,10 @@
-# Abdul's Portfolio
+# Personal Projects
 
 ---
 
 # Diabetes Classifier
 
-Diabetes mellitus is a disease that affects how the body regulates and uses glucose. It is characterized by abnormally high levels of glucose in the blood. A hormone known as insulin regulates glucose levels in the blood. It is produced by the islet cells in the pancreas—an impairment in the body's ability to make or respond to insulin results in diabetes. Diabetes is classified into type 1 diabetes and type 2 diabetes. The former occurs when the pancreas produces insufficient insulin, while the latter occurs when cells do not respond to insulin. In this project, I aim to build a model that can accurately predict whether an individual has diabetes. Using machine learning to diagnose diabetes will make the diagnostic process more efficient, which will, in turn, make treatment easier and perhaps more effective.  So I built and compare several models that can accurately predict whether an individual has diabetes. The chosen classification algorithms include KNN, decision Tree, and different Naive Baiyes algorithms.
+Diabetes mellitus is a disease that affects how the body regulates and uses glucose. It is characterized by abnormally high levels of glucose in the blood. A hormone known as insulin regulates glucose levels in the blood. It is produced by the islet cells in the pancreas—an impairment in the body's ability to make or respond to insulin results in diabetes. Diabetes is classified into type 1 diabetes and type 2 diabetes. The former occurs when the pancreas produces insufficient insulin, while the latter occurs when cells do not respond to insulin. Using machine learning to diagnose diabetes will make the diagnostic process more efficient, which will, in turn, make treatment easier and perhaps more effective.  So I built and compare several models that can accurately predict whether an individual has diabetes. The chosen classification algorithms include KNN, decision Tree, and different Naive Baiyes algorithms.
 
 ### Skills and Tools Used
 - Exploratory data analysis
