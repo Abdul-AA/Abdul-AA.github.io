@@ -11,7 +11,7 @@ Diabetes mellitus is a disease that affects how the body regulates and uses gluc
 - Supervised learning
 - Python (Pandas, NumPy, ScikitLearn, seaborn, and Matplotlib)
 
-[View on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/5ac786e14bdb624000a4770b0ea879ca05a1d381/Notebooks/diabetes.ipynb)
+[View Full Project on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/14cabcd826f81e96ee18000ce0afec6c49353e11/Notebooks/diabetes.ipynb)
 <img src="images/diabetes-stats-report-724px.png"/>
 
 ---
@@ -24,7 +24,7 @@ Comcast is the largest American global telecommunication conglomerate. In Octobe
 - Exploratory data analysis
 - Python (Pandas and Numpy)
 
-[View on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/e0a9468ab53445e5926012f76abcf79d2b03208c/Notebooks/Comcast%20Data%20Analysis.ipynb)
+[View Full Project on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/e0a9468ab53445e5926012f76abcf79d2b03208c/Notebooks/Comcast%20Data%20Analysis.ipynb)
 <img src="images/cell.png.jpg"/>
 
 ---
@@ -46,7 +46,7 @@ Note that the title of each sheet in the dashboard is dynamic.
 - Data Visualization
 - Tableau
 
-[View Dashboard](https://public.tableau.com/views/ComparativeStudyofCountries_16641355016940/ComparativeStudyofCountries?:language=en-US&:display_count=n&:origin=viz_share_link)
+[View Dashboard on Tableau Public](https://public.tableau.com/views/ComparativeStudyofCountries_16641355016940/ComparativeStudyofCountries?:language=en-US&:display_count=n&:origin=viz_share_link)
 <img src="images/Comparative Study of Countries.png"/>
 
 
