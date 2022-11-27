@@ -4,14 +4,14 @@
 
 # Diabetes Classifier
 
-Diabetes mellitus is a group of diseases that affects how the body regulates and uses glucose. It is characterized by abnormally high levels of glucose in the blood. A hormone known as insulin regulates glucose levels in the blood. It is produced by the islet cells in the pancreas—an impairment in the body's ability to make or respond to insulin results in diabetes. Diabetes is commonly classified into type 1 diabetes and type 2 diabetes. The former, also known as insulin-dependent diabetes, is an autoimune disease whereby the islet cells are destroyed and unable to produce insulin, while the latter occurs when cells do not produce enough insulin and the body does not respond normally to insulin. Type 2 diabetes, also known as insulin-resistant diabetes, is the commonest type of diabetes. Other types include prediabetes and gestational diabetes. Using machine learning to diagnose diabetes will make the diagnostic process more efficient, which will, in turn, make treatment easier and perhaps more effective.
+Diabetes mellitus is a group of diseases that affects how the body regulates and uses glucose. It is characterized by abnormally high levels of glucose in the blood. A hormone known as insulin regulates glucose levels in the blood. It is produced by the islet cells in the pancreas—an impairment in the body's ability to make or respond to insulin results in diabetes. Diabetes is commonly classified into type 1 diabetes and type 2 diabetes. The former, also known as insulin-dependent diabetes, is an autoimmune disease whereby the islet cells are destroyed and unable to produce insulin, while the latter occurs when cells do not produce enough insulin and the body does not respond normally to insulin. Type 2 diabetes, also known as insulin-resistant diabetes, is the commonest type of diabetes. Other types include prediabetes and gestational diabetes. Using machine learning to diagnose diabetes will make the diagnostic process more efficient, which will, in turn, make treatment easier and perhaps more effective.
 
 ### Skills and Tools Used
 - Exploratory data analysis
 - Supervised learning
 - Python (Pandas, NumPy, ScikitLearn, seaborn, and Matplotlib)
 
-[View Full Project on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/14cabcd826f81e96ee18000ce0afec6c49353e11/Notebooks/diabetes.ipynb)
+[View Full Project on GitHub](https://github.com/Abdul-AA/abdul-aa.github.io/blob/992975644d94be324350ec11930b6d4699214057/Notebooks/diabetes.ipynb)
 <img src="images/diabetes-stats-report-724px.png"/>
 
 ---
@@ -31,7 +31,7 @@ Comcast is the largest American global telecommunication conglomerate. In Octobe
 
 
 # Comparative Study of Countries
-I created a dashboard on Tableau for an insurance company that is expanding and looking to situate new branches in various parts of the world. In the dashboard, I compared multiple metrics such as income, life insurance share, market share, penetration, the ratio of reinsurance accepted, and retention ratio of countries of varying income levels using the sample insurance dataset and world development indicators dataset. I performed the following steps in creating the dashboard:
+I created a dashboard on Tableau for an insurance company that is expanding and looking to situate new branches in various parts of the world. In the dashboard, I compared multiple metrics such as income, life insurance share, market share, penetration, the ratio of reinsurance accepted, and retention ratio of countries of various income levels using the sample insurance dataset and world development indicators dataset. I performed the following steps in creating the dashboard:
 -	I created a geographic map showing the countries the insurance firm was considering and indicated each country's income level. 
 -	I included an income group filter in the dashboard to select countries based on their income level.
 -	I included a Wikipedia webpage to show real-time data of each country; the wiki page can be altered by selecting the country of interest on the map.
