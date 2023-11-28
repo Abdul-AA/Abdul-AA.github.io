@@ -1,34 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Abdulrahman Aroworamimo</title>
-    <style>
-        .logo {
-            max-width: 300px;
-            height: auto;
-            display: block;
-            margin: 0 auto;
-            border-radius: 50%;
-        }
-    </style>
-</head>
-
-<body>
-    <p align="center">Abdulrahman Aroworamimo</p>
-    <img src="/images/IMG_4539.JPG?raw=true" class="logo" alt="Abdulrahman Aroworamimo's photo">
-    <p>
-        I am a data scientist with a unique blend of business acumen, analytics, and advanced management skills. I am
-        looking to apply my skills to solve problems in pharma and healthcare individually and within a team.
-    </p>
-    <p>
-        Skills: Python(Pandas,Seaborn,Scikit-learn, Gurobi, Matplotlib, and Numpy),R,Tableau, SQL
-    </p>
-    <p>
-        <a href="https://www.linkedin.com/in/abdulrahman-aroworamimo-02213514b">View My LinkedIn Profile</a>
-    </p>
-</body>
-
-</html>
+title: <p align="center"> Abdulrahman Aroworamimo </p> 
+logo: "/images/IMG_4539.JPG?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  I am a data scientist with a unique blend of business acumen, analytics, and advanced management skills. I am looking to apply my skills to solve problems in pharma and healthcare individually and within a team.
+  <br>
+  Skills: Python(Pandas,Seaborn,Scikit-learn, Gurobi, Matplotlib, and Numpy),R,Tableau, SQL 
+  <br>
+  <a href="https://www.linkedin.com/in/abdulrahman-aroworamimo-02213514b">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID heretitle: <p align="center"> Abdulrahman Aroworamimo </p>
