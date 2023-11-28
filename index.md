@@ -10,7 +10,7 @@ Collaborated with a team of five on an optimization project utilizing mixed-inte
 - Goal programming
 - Python (Gurobi, Pandas, NumPy, Plotly, seaborn, and Matplotlib)
 
-[View Full Project on GitHub]([https://github.com/Abdul-AA/abdul-aa.github.io/blob/992975644d94be324350ec11930b6d4699214057/Notebooks/diabetes.ipynb](https://github.com/Abdul-AA/Canada-Net-Zero-Optimization))
+[View Full Project on GitHub](https://github.com/Abdul-AA/Canada-Net-Zero-Optimization.git)
 <img src="images/wind.jpg"/>
 
 ---
