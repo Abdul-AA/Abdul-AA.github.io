@@ -27,7 +27,6 @@ to enhance their project planning and execution strategies.
 [View Full Project on GitHub](https://github.com/Abdul-AA/Kickstarters/tree/main)
 <img src="images/kick.jpg"/>
 
----
 
 ---
 # Optimizing the Grid
