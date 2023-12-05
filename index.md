@@ -1,6 +1,35 @@
 # Personal Projects
 
 ---
+# Predictive Modeling and Clustering Insights for Kickstarter Success
+
+Kickstarter, a renowned crowdfunding platform, operates on a unique premise where backers support
+projects of interest through financial pledges. The platform employs an ”all or nothing” model, where
+each project sets a financial goal, and its outcome is categorized as either failed or successful based on
+whether the goal is achieved. The high stakes associated with this model underpin the importance of a
+predictive model that can accurately forecast a project’s fate. Such a tool would be invaluable for project
+creators, allowing them to assess the suitability of Kickstarter for their endeavor before committing,
+ultimately saving time and resources. Moreover, delving into the diverse attributes of past projects
+can provide creators with insights to strategically position their initiatives for success. Recognizing this
+potential, this project aims to develop a classification model capable of predicting a project’s success
+or failure. Additionally, the project seeks to employ clustering techniques on historical data to uncover
+inherent patterns and trends among past Kickstarter projects, offering creators a deeper understanding
+to enhance their project planning and execution strategies.
+### Skills and Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Boosting and Bagging
+- K-Prototypes clustering
+- SHAP
+
+[View Full Project on GitHub](https://github.com/Abdul-AA/Kickstarters/tree/main)
+<img src="images/kick.jpg"/>
+
+---
+
+---
 # Optimizing the Grid
 
 Collaborated with a team of five on an optimization project utilizing mixed-integer programming to determine the optimal path to achieve Canada's net-zero emissions in the electricity sector by 2035. Aligned with Canada's commitments to the Paris Agreement, the project addressed the complexity of balancing environmental, economic, and social factors. Utilized a multi-objective mixed-integer programming (MIP) approach and goal programming (GP) approach to explore trade-offs and compromises. The MIP model outlined a roadmap for electricity generation and technology investment, considering cost minimization and reliable energy supply. The GP model assessed the broader feasibility of emissions, energy generation, capacity goals, and capital costs. The project contributes to environmental and energy debates, emphasizing the potential of data modeling for conceptualization in complex problem-solving. The report provides insights into model formulation, implementation, results, implications, potential extensions, and lessons learned in the application of linear optimization in complex and uncertain environments.
