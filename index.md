@@ -24,7 +24,7 @@ entrepreneurs.
 - ggplot
 - Data Visualization
 
-[View Full Project on GitHub](https://github.com/Abdul-AA/Shark-Tank-Pitches/tree/6d7a08b1fa0fdc35d6b1ae38de1a47a97cdbb259)
+[View Full Project on GitHub](https://github.com/Abdul-AA/Shark-Tank-Pitches/tree/610d9f5294d05c0468e4f81b3a20ce12bffd3f6d)
 <img src="images/shark.jpg"/>
 
 ---
